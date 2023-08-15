@@ -1,7 +1,7 @@
 let logo=4;
 function setup() {
   createCanvas(800, 800);
-  textFont("Courier New");
+  textFont("Courier New"); 
 }
 
 function draw() {
