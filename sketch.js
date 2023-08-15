@@ -129,7 +129,7 @@ function logo3() {
   text("<SIAD>", width * 0.5, height * 0.57);
   textStyle(NORMAL);
   textSize(20);
-  text("Semillero de Investigación", width * 0.5, height * 0.62);
+  text("Semillero de Investigación ", width * 0.5, height * 0.62);
   text("Artes Digitales", width * 0.5, height * 0.65);
   pop();
 }
