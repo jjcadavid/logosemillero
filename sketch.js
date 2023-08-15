@@ -123,7 +123,7 @@ function logo3() {
     rect(0, 0, 100, 100);
     pop();
   }
-  textSize(80);
+  textSize(90);
   textAlign(CENTER, CENTER);
   textStyle(BOLD);
   text("<SIAD>", width * 0.5, height * 0.57);
